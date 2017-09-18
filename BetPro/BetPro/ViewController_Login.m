@@ -62,6 +62,7 @@ UITextField *inputText;
     [self.view addSubview:inputText];
     [self.view addSubview:inputLabel];
     [self.view addSubview:loginButton];
+
 }
 
 -(void)pressLogin{

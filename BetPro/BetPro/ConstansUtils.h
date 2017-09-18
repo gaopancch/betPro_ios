@@ -11,6 +11,8 @@
 @interface ConstansUtils : NSObject
 
 @property (nonatomic) NSString *userName;
+@property (nonatomic) NSString *ipAdress;
+
 
 +(id)getInstance;
 -(id)init;
